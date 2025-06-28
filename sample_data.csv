@@ -1,0 +1,11 @@
+Order ID,Customer Name,Email,Country,Currency,Product SKU,Product Description,Quantity,Unit Price,Total Price,Order Date,Shipping Fee,Delivery Status,Delivery Date,Payment Method,Notes,Unnamed: 0
+ORD8817,😊 Alex,😊alex@gmail.con,DE,USD,SKU-123,Smartphone,2,twenty,,2026-12-01,5.00,Delivered,2026-12-11,Credit Curd,Excellent 👍,0
+ORD2676,Marie Curie,mariecurie@hotmail.com,USA,$,345,Smartphone,1,40,,2023-05-12,7,delivrd,2023-05-17,paypal,<div>Hurry</div>,1
+ORD5686,😊 Alex,😊alex@outlook.com,United Kingdom,$,#SKU234,Laptop&nbsp;Bag,0,"15,00",,2023-05-12,free,delivrd,2023-05-17,credit card,Excellent 👍,2
+ORD19599,Jane Smith,janesmith@outlook.com,Deutschland,USD,SKU-123,USB-C Cable,three,€30,,2026-12-01,€4,Delivered,2026-12-03,paypal,Excellent 👍,3
+ORD6512,Marie Curie,mariecurie@hotmail.com,UK,€,345,Gaming Chair,-1,"15,00",,2026-12-01,$5,Cancelled,2026-11-30,Cash on deliv,,4
+ORD12739,Jane Smith,janesmith@hotmail.com,UK,USD,345,<b>Wireless Mouse</b>,three,$10.00,,2023-05-12,free,delivrd,2023-05-22,paypal,,5
+ORD15843,😊 Alex,😊alex@hotmail.com,DE,USD,SKU-123,Gaming Chair,1,"15,00",,2023-05-12,free,Cancelled,2023-05-11,Credit Curd,,6
+ORD17573,😊 Alex,😊alex@outlook.com,DE,JPY,#SKU234,Gaming Chair,1,£12.5,,2023-05-12,-3,Shipped,2023-05-11,Credit Curd,Excellent 👍,7
+ORD9490,John Doe,johndoe@yahoo.com,United States,£,sku-678,<b>Wireless Mouse</b>,3,£12.5,,2026-12-01,$5,Shipped,2026-12-06,Credit Curd,Delayed! 😡,8
+ORD16610,Carlos Diaz,carlosdiaz@outlook.com,USA,£,SKU_999,Laptop&nbsp;Bag,three,25,,2023-05-12,$5,In-transit,2023-05-11,PayPal,Delayed! 😡,9
